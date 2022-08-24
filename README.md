@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/AniketChaudhri/Google-Maps-0.5" rel="noopener">
+  <a href="https://github.com/RajatSingh08/Google-Maps-0.5" rel="noopener">
 
 ![Pathfinding visualizer](https://user-images.githubusercontent.com/40190772/83947303-6ece9280-a816-11ea-9ac3-72e28ad8af18.png)
 
